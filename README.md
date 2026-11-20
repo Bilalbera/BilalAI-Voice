@@ -5,12 +5,15 @@ BilalAI Voice resmi github reposuna hoşgeldiniz!
 Öncelikle BilalAI Voice'i sadece terminal ve Visual Studio Code üzerinden kullanabilirsiniz.
 
 1. Projeyi bilgisayarınıza indirin:
+   
 git clone https://github.com/Bilalbera/BilalAI-Voice.git
 
-2. Proje klasörüne girin:
+3. Proje klasörüne girin:
+   
 cd BilalAI-Voice
 
 4. BilalAI Voice'i başlatın:
+   
 python main.py
 
 projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin çalışması için gerekli.)
