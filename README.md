@@ -4,17 +4,17 @@ BilalAI Voice resmi github reposuna hoşgeldiniz!
 # Nasıl kullanılır?
 Öncelikle BilalAI Voice'i sadece terminal ve Visual Studio Code üzerinden kullanabilirsiniz.
 
-1. Projeyi bilgisayarınıza indirin:
+## 1. Projeyi bilgisayarınıza indirin:
    
 - git clone https://github.com/Bilalbera/BilalAI-Voice.git
   
 
-2. Proje klasörüne girin:
+## 2. Proje klasörüne girin:
    
 - cd BilalAI-Voice
   
 
-3. BilalAI Voice'i başlatın:
+## 3. BilalAI Voice'i başlatın:
    
 - python main.py
 
