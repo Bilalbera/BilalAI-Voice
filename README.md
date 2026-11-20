@@ -6,15 +6,15 @@ BilalAI Voice resmi github reposuna hoşgeldiniz!
 
 1. Projeyi bilgisayarınıza indirin:
    
-git clone https://github.com/Bilalbera/BilalAI-Voice.git
+- git clone https://github.com/Bilalbera/BilalAI-Voice.git
 
 3. Proje klasörüne girin:
    
-cd BilalAI-Voice
+- cd BilalAI-Voice
 
 4. BilalAI Voice'i başlatın:
    
-python main.py
+- python main.py
 
 projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin çalışması için gerekli.)
 
