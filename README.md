@@ -20,7 +20,7 @@ BilalAI Voice resmi github reposuna hoşgeldiniz!
 
 projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin çalışması için gerekli.)
 
-## Özellikler
+# Özellikler
 - 'sesli konuş' komutuyla sesli konuşma ve sesli cevap alma.
 - Gemini 2.5 Flash modeliyle entegre edildi.
 - Yapay zeka, "hafiza.json" dosyasına bütün sohbetlerinizi kaydeder ve kalıcı bir hafızası vardır.
