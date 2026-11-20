@@ -1,6 +1,10 @@
 # BilalAI Voice 1.0
 BilalAI Voice resmi github reposuna hoşgeldiniz!
 
+# BilalAI Voice Nedir?
+BilalAI Voice, terminal veya vs code üzerinden günlük işlerinizi yapmaya yardımcı olmak için tasarlanmıştır. 
+(Örn google'da arama yapma, site açma, google'u açma, not defteri açma vb.)
+
 # Nasıl kullanılır?
 Öncelikle BilalAI Voice'i sadece terminal ve Visual Studio Code üzerinden kullanabilirsiniz.
 
