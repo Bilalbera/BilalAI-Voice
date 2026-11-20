@@ -28,7 +28,7 @@ projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin �
 - 'sesli konuş' komutuyla sesli konuşma ve sesli cevap alma.
 - Gemini 2.5 Flash modeliyle entegre edildi.
 - Yapay zeka, "hafiza.json" dosyasına bütün sohbetlerinizi kaydeder ve kalıcı bir hafızası vardır.
-- Yapay Zeka eğitilmiştir
+- Yapay Zeka özel olarak eğitilmiştir.
 
 Bilal Bera tarafından yapılmıştır. Dosyaların izinsiz paylaşılması yasaktır.
 
