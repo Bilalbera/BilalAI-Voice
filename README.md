@@ -10,17 +10,17 @@ BilalAI Voice, terminal veya vs code üzerinden günlük işlerinizi yapmaya yar
 
 ## 1. Projeyi bilgisayarınıza indirin:
    
-- git clone https://github.com/Bilalbera/BilalAI-Voice.git
+`git clone https://github.com/Bilalbera/BilalAI-Voice.git`
   
 
 ## 2. Proje klasörüne girin:
    
-- cd BilalAI-Voice
+`cd BilalAI-Voice`
   
 
 ## 3. BilalAI Voice'i başlatın:
    
-- python main.py
+`python main.py`
 
 projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin çalışması için gerekli.)
 
@@ -28,6 +28,7 @@ projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin �
 - 'sesli konuş' komutuyla sesli konuşma ve sesli cevap alma.
 - Gemini 2.5 Flash modeliyle entegre edildi.
 - Yapay zeka, "hafiza.json" dosyasına bütün sohbetlerinizi kaydeder ve kalıcı bir hafızası vardır.
+- Yapay Zeka eğitilmiştir
 
 Bilal Bera tarafından yapılmıştır. Dosyaların izinsiz paylaşılması yasaktır.
 
