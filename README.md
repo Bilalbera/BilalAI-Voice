@@ -7,12 +7,14 @@ BilalAI Voice resmi github reposuna hoşgeldiniz!
 1. Projeyi bilgisayarınıza indirin:
    
 - git clone https://github.com/Bilalbera/BilalAI-Voice.git
+  
 
-3. Proje klasörüne girin:
+2. Proje klasörüne girin:
    
 - cd BilalAI-Voice
+  
 
-4. BilalAI Voice'i başlatın:
+3. BilalAI Voice'i başlatın:
    
 - python main.py
 
@@ -24,3 +26,5 @@ projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin �
 - Yapay zeka, "hafiza.json" dosyasına bütün sohbetlerinizi kaydeder ve kalıcı bir hafızası vardır.
 
 Bilal Bera tarafından yapılmıştır. Dosyaların izinsiz paylaşılması yasaktır.
+
+Aktif olarak geliştirilmektedir.
