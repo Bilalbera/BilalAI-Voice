@@ -29,7 +29,17 @@ projeyi indirdikten sonra .env dosyasına Gemini api key'inizi yazın (Modelin �
 - Gemini 2.5 Flash modeliyle entegre edildi.
 - Yapay zeka, "hafiza.json" dosyasına bütün sohbetlerinizi kaydeder ve kalıcı bir hafızası vardır.
 - Yapay Zeka özel olarak eğitilmiştir.
+  
 ---
-Bilal Bera tarafından yapılmıştır. Dosyaların izinsiz paylaşılması yasaktır.
+Bilal Bera tarafından yapılmıştır.
 
-Aktif olarak geliştirilmektedir.
+--- 
+© 2026 Bilal Bera. Tüm hakları saklıdır.
+
+BilalAI Voice projesinin kaynak kodları, tasarımı ve diğer içerikleri proje sahibine aittir.
+
+Projenin tamamının veya herhangi bir bölümünün, proje sahibinin önceden yazılı izni olmadan kopyalanması, dağıtılması, değiştirilmesi veya ticari amaçlarla kullanılması yasaktır.
+
+Bu proje açıkça başka bir lisans altında yayımlanmadığı sürece tüm hakları saklıdır.
+
+---
